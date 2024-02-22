@@ -31,24 +31,24 @@ Berikut ini adalah hasil dari Final Projek Python pada file final projek berisi 
 1. Pengujian tambah item
    ![alt text](https://github.com/Fatirnu/ProjekKasir/blob/main/HasilTest/1.PNG?raw=true)
 
-3. Mengupdate nama item
+2. Mengupdate nama item
 
+    ![alt text](https://github.com/Fatirnu/ProjekKasir/blob/main/HasilTest/2.PNG?raw=true)
     
-    
-4. Mengupdate jumlah item
+3. Mengupdate jumlah item
+    ![alt text](https://github.com/Fatirnu/ProjekKasir/blob/main/HasilTest/3.PNG?raw=true)
 
+4. Mengupdate jumlah Harga per item
+    ![alt text](https://github.com/Fatirnu/ProjekKasir/blob/main/HasilTest/4.PNG?raw=true)
 
-5. Mengupdate jumlah Harga per item
+5. Menghapus data
+    ![alt text](https://github.com/Fatirnu/ProjekKasir/blob/main/HasilTest/5.PNG?raw=true)
 
+6. Mereset belanjaan
+    ![alt text](https://github.com/Fatirnu/ProjekKasir/blob/main/HasilTest/6.PNG?raw=true)
 
-6. Menghapus data
+7. Check belanjaan
+    ![alt text](https://github.com/Fatirnu/ProjekKasir/blob/main/HasilTest/7.PNG?raw=true)
 
-
-7. Mereset belanjaan
-    
-
-8. Check belanjaan
-
-
-9. Paymen
-
+8. Paymen
+    ![alt text](https://github.com/Fatirnu/ProjekKasir/blob/main/HasilTest/8.PNG?raw=true)
