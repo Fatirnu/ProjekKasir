@@ -29,26 +29,26 @@ Berikut ini adalah hasil dari Final Projek Python pada file final projek berisi 
 
 # Hasil Test Case
 1. Pengujian tambah item
+   ![alt text](https://github.com/Fatirnu/ProjekKasir/blob/main/HasilTest/1.PNG?raw=true)
+
+3. Mengupdate nama item
+
+    
+    
+4. Mengupdate jumlah item
+
+
+5. Mengupdate jumlah Harga per item
+
+
+6. Menghapus data
+
+
+7. Mereset belanjaan
     
 
-2. Mengupdate nama item
-
-    
-    
-3. Mengupdate jumlah item
+8. Check belanjaan
 
 
-4. Mengupdate jumlah Harga per item
-
-
-5. Menghapus data
-
-
-6. Mereset belanjaan
-    
-
-7. Check belanjaan
-
-
-8. Paymen
+9. Paymen
 
