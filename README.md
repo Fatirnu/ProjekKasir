@@ -60,3 +60,7 @@ Flowchart
 8. Paymen
     -
     ![alt text](https://github.com/Fatirnu/ProjekKasir/blob/main/HasilTest/ke8.PNG?raw=true)
+
+# Video Penjelasan
+   -
+   https://youtu.be/32t_6sTb_4Y
