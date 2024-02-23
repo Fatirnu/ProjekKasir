@@ -3,7 +3,7 @@ Berikut ini adalah hasil dari Final Projek Python pada file final projek berisi 
 
 Flowchart
 -
-![alt text](https://github.com/Fatirnu/ProjekKasir/blob/main/HasilTest/flowchart_project.png?raw=true)
+![alt text](https://github.com/Fatirnu/ProjekKasir/blob/main/HasilTest/flowchartproject.png?raw=true)
 
 # Tujuan Pengerjaan Project
 1. Membuat program kasir sederhana menggunakan python:
