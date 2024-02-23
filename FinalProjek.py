@@ -158,7 +158,6 @@ class Transaction:
     mereset semua value dari data pada dictionary
     """
     try:
-      while True:
         choice = str(input("Apakah kamu yakin? y/n: ")).lower()
         if choice == 'y':
           #menghapus semua value yang ada pada data dictionary
